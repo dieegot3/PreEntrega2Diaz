@@ -1,0 +1,34 @@
+.divGeneral {
+  background-color: aquamarine;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 74px;
+  width: 90%;
+  position: fixed;
+  top: 0;
+  margin: auto;
+}
+
+.cartIcon {
+  height: 24px;
+  width: 24px;
+  margin-right: 8px;
+}
+
+.cartWidget {
+  display: flex;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  gap: 2rem;
+}
+
+.productos {
+  margin-top: 5rem;
+}
