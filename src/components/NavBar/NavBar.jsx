@@ -4,7 +4,7 @@ import "./NavBar.css";
 
 export const NavBar = () => {
   return (
-    <div className="navbar">
+    <div className="Navbar">
       <Link to={"/"}>
         <h1 className="Brand">Nocturne</h1>
       </Link>

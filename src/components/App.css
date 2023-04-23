@@ -2,8 +2,10 @@
   background-color: aquamarine;
 }
 
-.navbar {
+.Navbar {
   display: flex;
+  background-color: #28262c;
+  z-index: 9999;
   align-items: center;
   justify-content: space-between;
   height: 74px;
