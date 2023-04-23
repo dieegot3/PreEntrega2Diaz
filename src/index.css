@@ -7,3 +7,23 @@
 body {
   background-color: #28262c;
 }
+
+button {
+  color: #28262c;
+}
+
+h1 {
+  color: #cc54eb;
+}
+
+p {
+  margin-top: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+picture {
+  width: 60%;
+}

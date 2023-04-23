@@ -30,5 +30,6 @@
 }
 
 .productos {
-  margin-top: 5rem;
+  width: 75%;
+  margin: 10rem auto;
 }
